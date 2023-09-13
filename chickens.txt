@@ -5,3 +5,5 @@ Brahma
 Buckeye
 Chantecler
 Delaware
+testchicken
+testchicken2
